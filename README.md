@@ -71,6 +71,7 @@ iv. The web application will load.
   
 🧑‍💻 4. **Using the Application**
 🔑 Login Credentials
+Just Use Same Username and Password
 Admin Login:
 Username: admin
 Password: admin
