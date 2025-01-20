@@ -1,5 +1,4 @@
 from flask import Flask, render_template, request, redirect, url_for, session
-import json
 from web3 import Web3, HTTPProvider
 import hashlib
 from hashlib import sha256
