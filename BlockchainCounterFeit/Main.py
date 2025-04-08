@@ -14,7 +14,7 @@ app = Flask(__name__)
 
 app.secret_key = 'welcome'
 global uname, details
-
+ 
 def readDetails(contract_type):
     global details
     details = ""
